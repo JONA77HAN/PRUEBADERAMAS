@@ -1,5 +1,9 @@
 * {
     background-color: rgb(77, 65, 150);
+    padding: 10px;
+    border: 5px solid black;
+    margin: 5px;
+    text-align: center;
 }
 h1 {
     font-size: large;
